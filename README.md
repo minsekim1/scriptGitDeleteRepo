@@ -1,4 +1,4 @@
-# scriptGitDeleteRepo
+# Shell Script for Delete Git Repository
 
 shell script for delete my git repository
 
